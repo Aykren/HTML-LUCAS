@@ -1,0 +1,70 @@
+nav {
+  background-color: #01A9DB;
+  color: white;
+  padding: 15px 0;
+  text-align: center;
+}
+
+nav p {
+  position: relative;
+  top: -10px;
+  font-size: 45px;
+  margin: 0;
+  font-weight: bold;
+  color: white;
+}
+
+nav a {
+  color: white;
+  text-decoration: none;
+  padding: 10px 20px;
+  margin: 0 15px;
+  border-radius: 10px;
+  background-color: #0B4C5F;
+}
+
+nav a:hover {
+  background-color: #2E2E2E;
+}
+
+ section {
+  padding: 20px;
+            margin: 20px auto;
+            max-width: 800px;
+            background: #fff;
+            box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+}
+
+h2 {
+  color: #01A9DB;
+  font-size: 30px;
+}
+
+img {
+      display: block;
+      margin: 0 auto;
+    }
+
+.LogoEntreprise {
+    position: absolute;
+    top: 10px; 
+    left: 10px; 
+}
+
+.man {
+    position: absolute;
+    top: 600px; 
+    left: 850px; 
+}
+
+.conversation {
+    position: absolute;
+    top: 1480px; 
+    left: 825px; 
+}
+
+.question {
+    position: absolute;
+    top: 385px; 
+    left: 800px; 
+}

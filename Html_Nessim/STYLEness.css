@@ -1,0 +1,62 @@
+ nav {
+  background-color: #01A9DB;
+  color: white;
+  padding: 0px ;
+  text-align: center;
+		}
+
+nav a {
+  color: white;
+  text-decoration: none;
+  padding: 10px 20px;
+  margin: 0 10px;
+  border-radius: 10px;
+  background-color: #0B4C5F;
+}
+
+nav a:hover {
+  background-color: #2E2E2E;
+}
+
+       
+		body {
+            font-family: Lucia Bright;
+            line-height: 1.6;
+            margin: 0;
+            padding: 0;
+            background-color: #f4f4f9;
+            color: #333;
+        }
+        header {
+            background: #01A9DB;
+            color: #fff;
+            padding: 1rem 0;
+            text-align: center;
+        }
+        section {
+            padding: 20px;
+            margin: 20px auto;
+            max-width: 800px;
+            background: #fff;
+            box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+        }
+     
+     
+		h2 {
+		  color: #01A9DB;
+		 }
+        h1 {
+		  color: #fff;
+		  font-size: 45px;
+		}
+		
+		contact a {
+            color: #007BFF;
+            text-decoration: none;
+        }
+	.crs	{
+    position: absolute;
+    top: 780px;
+    left: 1425px;
+}
+       
